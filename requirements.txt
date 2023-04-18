@@ -7,6 +7,8 @@ statsmodels
 catboost 
 xgboost
 Flask 
+dill
+
 
 
 #-e .
