@@ -6,9 +6,10 @@ scikit-learn
 statsmodels
 catboost 
 xgboost
-Flask 
+Flask
+flask  
 dill
 
 
 
-#-e .
+-e .
